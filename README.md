@@ -1,2 +1,2 @@
 # DiceRoller
-![](DiceRoller.png)
+![](DiceRoller.PNG)
